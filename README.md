@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects related to developing innovative software solutions and exploring advanced Java applications. I'm particularly interested in working on initiatives that involve real-world problem-solving, integrating OOP principles, and applying cutting-edge technologies in practical scenarios.
 - 🤔 I’m looking for help with understanding DevOps practices and strategies, as well as learning how to host websites effectively. I’m interested in gaining insights into continuous integration and deployment (CI/CD), automation, and the best tools and methodologies for hosting and managing web applications. Additionally, I seek guidance on designing systems for optimal performance and scalability to handle large customer bases efficiently.
 - 💬 Ask me about my experiences with .NET, and I’d be happy to share how I’ve worked with this framework in various projects. I'm also open to discussing my insights on SQL Server, including database design, optimization, and best practices for managing and querying data effectively.
-- 📫 How to reach me: anushkauppula@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to play Cricket.
 
